@@ -3,7 +3,7 @@ This project started as following a tutorial and then shifted to a personal proj
 
 #Dependencies
 
-`
+```
 import selenium
 
 from selenium import webdriver
@@ -15,5 +15,5 @@ import PIL
 from PIL import Image
 
 from io import bytesIO
-`
+```
 
